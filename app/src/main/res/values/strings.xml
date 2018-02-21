@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UserProfile</string>
+    <string name="profile_photo">Profile photo</string>
+    <string name="name">Name</string>
+    <string name="birtday">Birtday</string>
+    <string name="country">Country</string>
+</resources>
